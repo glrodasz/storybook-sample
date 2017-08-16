@@ -2,8 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
-//import '../styles/components/Loading.css';
-
 const Loading = ({ show, children, small }) => {
   if (!show) {
     return children || <div />;

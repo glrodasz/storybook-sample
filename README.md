@@ -1,6 +1,6 @@
 ## Storybook Sample App
 
-Sample project to play with [React Storybook](https://github.com/storybooks/storybook) and snapshot testing. Demo available at [https://solepano.github.io/storybook-sample](https://solepano.github.io/storybook-sample).
+Sample project to play with [React Storybook](https://github.com/storybooks/storybook) and snapshot testing. Demo available at [https://glrodasz.github.io/storybook-sample/](https://glrodasz.github.io/storybook-sample/).
 
 It contains examples for performing structural test on the same component using:
 * [Jest + Enzyme](https://github.com/solepano/storybook-sample/blob/master/src/components/TicketsPage.test.js#L6)
